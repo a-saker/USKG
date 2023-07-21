@@ -14,7 +14,10 @@ The minimum area around the plate socks (bounding box) should be at least 22.5(w
 
 ### Roadmap
 * [ ] Finalize naming to be easier to reference
+    - Current naming is bit long and very specific to personal Mira keyboard project, not ideal for universal use
 * [ ] Finalize technical drawings for reference for manufactures and implementation for designers
+    - Many improvement and callouts can be made in technical drawings
+    - Title block needs to be updated to include general tolerance information instead of it being a separate note
 * [ ] Add reference images of prototypes/production in readme
 
 #### Contributing
