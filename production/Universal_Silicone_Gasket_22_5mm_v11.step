@@ -9,12 +9,12 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'MG-23003 Silicone plate sock 20x4x4_5mm v10.step',
-/* time_stamp */ '2023-07-21T12:38:14-04:00',
+/* name */ 'Universal_Silicone_Gasket_22_5mm_v11.step',
+/* time_stamp */ '2023-08-27T16:41:18-04:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v19.2',
-/* originating_system */ 'Autodesk Translation Framework v12.6.0.85',
+/* preprocessor_version */ 'ST-DEVELOPER v20',
+/* originating_system */ 'Autodesk Translation Framework v12.9.0.99',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -992,19 +992,19 @@ SOLID_ANGLE_UNIT()
 #939=PRODUCT_DEFINITION_SHAPE('',$,#942);
 #940=SHAPE_REPRESENTATION('',(#538),#932);
 #941=PRODUCT_DEFINITION_CONTEXT('part definition',#946,'design');
-#942=PRODUCT_DEFINITION('MG-23003 Silicone plate sock 20x4x4_5mm',
-'MG-23003 Silicone plate sock 20x4x4_5mm v10',#943,#941);
+#942=PRODUCT_DEFINITION('Universal_Silicone_Gasket_22_5mm',
+'Universal_Silicone_Gasket_22_5mm v11',#943,#941);
 #943=PRODUCT_DEFINITION_FORMATION('',$,#948);
 #944=PRODUCT_RELATED_PRODUCT_CATEGORY(
-'MG-23003 Silicone plate sock 20x4x4_5mm v10',
-'MG-23003 Silicone plate sock 20x4x4_5mm v10',(#948));
+'Universal_Silicone_Gasket_22_5mm v11',
+'Universal_Silicone_Gasket_22_5mm v11',(#948));
 #945=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#946);
 #946=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #947=PRODUCT_CONTEXT('part definition',#946,'mechanical');
-#948=PRODUCT('MG-23003 Silicone plate sock 20x4x4_5mm',
-'MG-23003 Silicone plate sock 20x4x4_5mm v10',$,(#947));
+#948=PRODUCT('Universal_Silicone_Gasket_22_5mm',
+'Universal_Silicone_Gasket_22_5mm v11',$,(#947));
 #949=PRESENTATION_STYLE_ASSIGNMENT((#951));
 #950=PRESENTATION_STYLE_ASSIGNMENT((#952));
 #951=SURFACE_STYLE_USAGE(.BOTH.,#953);
@@ -1018,7 +1018,6 @@ SOLID_ANGLE_UNIT()
 #959=FILL_AREA_STYLE_COLOUR('Aluminum - Satin',#961);
 #960=FILL_AREA_STYLE_COLOUR('Silicone (White)',#962);
 #961=COLOUR_RGB('Aluminum - Satin',0.96078431372549,0.96078431372549,0.964705882352941);
-#962=COLOUR_RGB('Silicone (White)',0.964705882352941,0.964705882352941,
-0.952941176470588);
+#962=COLOUR_RGB('Silicone (White)',0.12156862745098,0.12156862745098,0.117647058823529);
 ENDSEC;
 END-ISO-10303-21;
