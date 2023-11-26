@@ -1,16 +1,18 @@
-## Universal Silicone Gasket
+## Universal Silicone Keyboard Gasket
 
 ### Preface
-The initial Universal Silicone Gasket (naming is WIP) is the standard gasket that is used for the Mira keyboard designed by Saker. It was designed to be easily implemented in future designs and be used by others openly without restrictions. 
+The initial Universal Silicone Keyboard Gasket was a keyboard gasket sock that was originally used in the Mira keyboard designed by Saker. Primary goal to design it to be easily implemented in future designs with and be used by others openly without many restrictions. 
+
+With version 2 of USKG, the design was changed to be easier to use in other designs and be easier to use securely by builders.
 
 ### Use this gasket with you own keyboard
-The reference files for the gasket are located in the [production](./production/) directory. You may also look at the releases section.
+The files for the gasket are located in the [production](./production/) directory. ~~You may want to also look at the releases section.~~
 
-The ideal mounting tabs and implementation for USG should be **20.00(w) x 1.50mm(h)**. The mounting tab **depth needs to be at least 3.50mm** for the plate sock to be seated completely. 
+The ideal mounting tabs and implementation for USKG should be **16.20(w) x 1.50mm(h)**. The mounting tab **depth needs to be at least 3.50mm** for the plate sock to be seated completely. USKG has a internal piece to clip onto the mounting tab. A slot should be made 2.00mm away from the end of the mounting tab. Check the example implementation in [examples](./examples/) directory.
 
-The minimum area around the plate socks (bounding box) should be at least 22.50(w) x 4.50(h) x 4.50mm(d). Using these exact numbers for the mounting location cutouts will result in a very tight fit.
+The minimum area around the plate socks (bounding box) should be at least 20.00(w) x 4.90(h) x 5.00mm(d). Using these exact numbers for the mounting location cutouts will result in a very tight fit. If you would like the gasket to aid as a force break between the top and bottom case, consider reducing the height of the cutout to below 4.90mm.
 
-![SAKER MIRA PLATE SOCK REFERENCE 01](./misc/universal_silicone_gasket_technical_reference.png)
+![SAKER USKG 2 GASKET SOCK REFERENCE 01](./misc/universal_silicone_gasket_technical_reference.png)
 
 ### Roadmap
 * [X] Finalize naming to be easier to reference
@@ -19,8 +21,11 @@ The minimum area around the plate socks (bounding box) should be at least 22.50(
     - Many improvement and callouts can be made in technical drawings
     - Title block needs to be updated to include general tolerance information instead of it being a separate note
 * [ ] Add reference images of prototypes/production in readme
-* [ ] Utilise releases for USG versions and alternate models
-* [ ] Manufacturer details/contact
+* [ ] Utilise releases for USKG versions and alternate models
+* [ ] Manufacturer details that have the production molds
+* [ ] License?
+* [ ] Update production files to version 2 of USKG
+    - move version 1 files to separate location
 
 #### Contributing
 This project is meant to be a resource and benefit for the community. It is open to contributions to any who are willing to suggest improvements, changes, or corrections.
