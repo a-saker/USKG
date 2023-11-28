@@ -22,6 +22,7 @@ The minimum area around the plate socks (bounding box) should be at least 20.00(
     - Title block needs to be updated to include general tolerance information instead of it being a separate note
 * [ ] Add reference images of prototypes/production in readme
 * [ ] Utilise releases for USKG versions and alternate models
+    - move USKG-1 files to separate branch/release
 * [ ] Manufacturer details that have the production molds
 * [ ] License?
 * [X] Update production files to version 2 of USKG
