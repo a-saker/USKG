@@ -5,8 +5,6 @@ The initial commit of the Universal Silicone Keyboard Gasket was a keyboard gask
 
 With USKG-2, the design was changed to be easier to use in other designs and be easier to by individuals building keyboards with it.
 
-![SAKER USKG-2 GASKET SOCK REFERENCE 02](./misc/USKG-2_19_5mm_wireframe_v34.png)
-
 ### Use USKG with your own keyboard
 The files for the gasket are located in the [production](./production/) directory.
 
