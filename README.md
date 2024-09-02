@@ -3,7 +3,7 @@
 ### Preface
 The initial commit of the Universal Silicone Keyboard Gasket was a keyboard gasket sock that was originally used in the Mira keyboard designed by Saker. With the primary goal to design something easily implemented in future keyboard designs and be used by others openly without many restrictions. 
 
-With USKG-2, the design was changed to be easier to use in other designs and be easier to by individuals building keyboards with it.
+With USKG-2, the design was changed to be easier to implement in other keyboard designs and while also being easier to use by individuals building keyboards with them.
 
 ### Use USKG with your own keyboard
 The files for the gasket are located in the [production](./production/) directory.
